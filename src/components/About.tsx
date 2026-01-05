@@ -46,7 +46,7 @@ const About = () => {
             <Button 
               size="lg" 
               className="bg-primary hover:bg-warm-600 text-primary-foreground shadow-lg"
-              onClick={() => window.open('https://calendly.com', '_blank')}
+              onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSfYR0tC5P4m6-X18YQSX5fBjMze3wbAaU3cfY8YQJ7Axd4RUw/viewform?usp=dialog', '_blank')}
             >
               Schedule Your Free Consultation
             </Button>

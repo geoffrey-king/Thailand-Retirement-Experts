@@ -57,7 +57,7 @@ const CTA = () => {
           <Button 
             size="lg" 
             className="bg-white text-primary hover:bg-warm-50 px-12 py-4 text-xl font-semibold shadow-2xl hover:shadow-3xl transition-all duration-300"
-            onClick={() => window.open('https://calendly.com', '_blank')}
+            onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSfYR0tC5P4m6-X18YQSX5fBjMze3wbAaU3cfY8YQJ7Axd4RUw/viewform?usp=dialog', '_blank')}
           >
             <Calendar className="w-6 h-6 mr-3" />
             Get Your FREE Thailand Retirement Plan
