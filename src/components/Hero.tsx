@@ -11,9 +11,19 @@ const Hero = () => {
           backgroundImage: `url('https://images.unsplash.com/photo-1504214208698-ea1916a2195a?auto=format&fit=crop&q=80&w=1920&h=1080')`
         }}
       >
-        {/* Warm gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-r from-warm-900/90 via-warm-800/70 to-transparent"></div>
-        <div className="absolute inset-0 bg-gradient-to-t from-warm-900/50 to-transparent"></div>
+        {/* Gradient overlay */}
+        <div 
+          className="absolute inset-0"
+          style={{
+            background: 'linear-gradient(to right, hsl(32 55% 55% / 0.9), hsl(38 60% 70% / 0.7), transparent)'
+          }}
+        ></div>
+        <div 
+          className="absolute inset-0"
+          style={{
+            background: 'linear-gradient(to top, hsl(32 55% 55% / 0.5), transparent)'
+          }}
+        ></div>
       </div>
       
       <div className="container mx-auto px-4 relative z-10">
