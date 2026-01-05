@@ -10,7 +10,9 @@ const Header = () => {
             <Sun className="text-primary-foreground w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-xl font-display font-bold text-primary">Thailand Retirement</h1>
+            <h1 className="text-xl font-display font-bold text-primary">
+              <span className="text-blue-600">Thailand</span> Retirement
+            </h1>
             <p className="text-sm text-muted-foreground">Retire Better for Less in Paradise</p>
           </div>
         </div>
