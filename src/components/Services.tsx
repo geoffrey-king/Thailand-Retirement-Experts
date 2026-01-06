@@ -6,7 +6,7 @@ const Services = () => {
     {
       icon: FileText,
       title: "Visa & Legal Support",
-      description: "Complete retirement visa assistance, extensions, and legal documentation for seamless relocation.",
+      description: "We offer retirement visa assistance by connecting you with trusted firms for a seamless relocation.",
       highlight: "Full compliance guaranteed"
     },
     {

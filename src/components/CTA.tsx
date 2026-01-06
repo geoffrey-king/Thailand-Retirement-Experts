@@ -66,7 +66,7 @@ const CTA = () => {
           
           <div className="space-y-2">
             <p className="text-sm text-white/80">
-              No obligation • 500+ Americans served • A+ BBB Rating
+              No obligation • 500+ Americans served
             </p>
           </div>
         </div>

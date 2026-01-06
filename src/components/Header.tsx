@@ -11,7 +11,7 @@ const Header = () => {
           </div>
           <div>
             <h1 className="text-xl font-display font-bold text-primary">
-              <span className="text-blue-600">Thailand</span> Retirement
+              Thailand Retirement
             </h1>
             <p className="text-sm text-muted-foreground">Retire Better for Less in Paradise</p>
           </div>

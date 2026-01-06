@@ -41,8 +41,8 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-warm-700 mt-12 pt-8 text-center text-warm-400">
-          <p>&copy; 2024 My Thai Retirement. All rights reserved.</p>
-          <p className="mt-2 text-sm">Helping Americans retire better since 2014 • A+ BBB Rating • 500+ Success Stories</p>
+          <p>&copy; 2025 My Thai Retirement. All rights reserved.</p>
+          <p className="mt-2 text-sm">Helping Americans retire better since 2014 • 500+ Success Stories</p>
         </div>
       </div>
     </footer>
